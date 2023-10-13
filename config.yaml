@@ -12,9 +12,9 @@ params:
   title: "Click - Forças do Bem"
   description: "Somos estudantes de direito unindo ONGs para oferecer assistência e ressocialização a quem mais precisa, sem apoio governamental."
   images: 
-    - "images/hero-image.png"
+    - "img/hero-image.png"
 
-  logo: "arrow-up.png"
+  logo: "logo.png"
 
   favicons:
     themeColor: "#000000"

@@ -1,6 +1,6 @@
 ---
 title: "Centro de Reabilitação Novo Recomeço"
-logo: "/images/logo-recomeco.png"
+logo: "/img/logo-recomeco.png"
 description: "Centro de recuperação de dependentes químicos e pessoas em situação de rua."
 date: "2019-02-28"
 images:

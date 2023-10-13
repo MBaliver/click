@@ -5,21 +5,21 @@ content:
   title: "Conheça as ONGs"
   text: "Conheça as organizações parceiras, saiba mais sobre o seu trabalho e como ajudar"
   cards:
-    - image: "images/logo-manna.png"
+    - image: "img/logo-manna.png"
       title: "Instituto Manna"
       text: "Um farol de esperança, oferecendo assistência às pessoas em situações extremas através de ações sociais."
       button:
         label: "Saiba Mais"
         url: "/instituto-manna"
 
-    - image: "images/logo-recomeco.png"
+    - image: "img/logo-recomeco.png"
       title: "Centro de Reabilitação Novo Recomeço"
       text: "Dedicados à reabilitação de indivíduos em busca de uma nova chance na vida."
       button:
         label: "Saiba Mais"
         url: "/novo-recomeco"
 
-    - image: "images/logo-paroquia.png"
+    - image: "img/logo-paroquia.png"
       title: "Serviço de Psicologia da Igreja São Francisco de Paula"
       text: "Orientam e apoiam emocionalmente."
       button:

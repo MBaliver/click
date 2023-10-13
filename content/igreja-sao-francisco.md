@@ -1,6 +1,6 @@
 ---
 title: "Paroquia São Francisco de Paula"
-logo: "/images/logo-paroquia.png"
+logo: "/img/logo-paroquia.png"
 description: "Serviço de Psicologia e Psicanálise."
 date: "2019-02-28"
 images:
