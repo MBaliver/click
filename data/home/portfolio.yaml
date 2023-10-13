@@ -1,0 +1,10 @@
+enabled: true
+id: "portfolio"
+
+content:
+  - image: "images/portfolio-ecommerce.png"
+    pretitle: "Conheça os"
+    title: "Serviços Oferecidos"
+    text: "As ONGs parceiras proporcionam uma gama de serviços essenciais e inspiradores, incluindo **música** e **orações** para criar um ambiente de paz e reflexão. Além disso, promovem **workshops** e **aulas diversas** para aprimorar habilidades e conhecimentos.<br><br>
+Elas também se dedicam a causas humanitárias, fornecendo **doações de alimentos** para aqueles em necessidade e organizam **visitas em grupo** para fortalecer a comunidade. Para celebrar a vida, realizam **festas e brincadeiras**, proporcionando momentos de alegria.<br><br>
+Apoio emocional é fundamental, e as ONGs contam com a assistência de **psicólogos**, além de orientação espiritual de **pastores** e **padres** para promover o bem-estar mental e espiritual. Esses serviços desempenham um papel crucial na transformação de vidas."

@@ -1,0 +1,73 @@
+baseURL: "https://www.example.com/"
+theme: "up-business-theme"
+languageCode: "en-us"
+
+title: "Click - Forças do Bem"
+
+# googleAnalytics: ""
+
+summaryLength: 20
+
+params:
+  title: "Click - Forças do Bem"
+  description: "Somos estudantes de direito unindo ONGs para oferecer assistência e ressocialização a quem mais precisa, sem apoio governamental."
+  images: 
+    - "images/hero-image.png"
+
+  logo: "arrow-up.png"
+
+  favicons:
+    themeColor: "#000000"
+    backgroundColor: "#000000"
+    faviconColor: "#000000"
+
+  social:
+
+  location:
+    - "R. Alceu Amoroso Lima, 105 - Barra da Tijuca, Rio de Janeiro - RJ"
+    - "Est. Xerém, 1303 - Recantus, Belford Roxo - RJ,"
+    - "Praça Euvaldo Lodi, s/n - Barra da Tijuca, Rio de Janeiro - RJ,"
+
+  contact:
+    - "trungkienspktnd@gamail.com"
+    - "207.555.0119"
+
+  copyright: "© 2022 Up Business All Rights Reserved"
+
+menus:
+  main:
+    - name: "Início"
+      url: "/#hero"
+      weight: 1
+
+    - name: "Serviços"
+      url: "/#servicos"
+      weight: 3
+
+  buttons:
+    - name: "Conheça as ONGs"
+      url: "/#ongs"
+      weight: 5
+      pre: "btn btn-primary text-light"
+
+  footer:
+    - name: "Início"
+      url: "/#hero"
+      weight: 1
+
+    - name: "Serviços"
+      url: "/#servicos"
+      weight: 2
+
+    - name: "ONGs"
+      url: "/#ongs"
+      weight: 3
+
+taxonomies:
+  series: "series"
+  tags: "tags"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

@@ -1,0 +1,15 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "Quem **Somos**"
+  text: "Somos um grupo de estudantes de direito inspirados por uma ideia poderosa. Nossa missão é unificar diversas organizações não governamentais (ONGs) em um esforço conjunto para proporcionar um melhor assistencialismo e ressocialização para aqueles que não recebem ajuda do governo."
+
+  buttonPrimary:
+    label: "Conheça as ONGs"
+    url: "#ongs"
+
+  buttonSecondary:
+    label: "Serviços"
+    url: "#sobre"
+
