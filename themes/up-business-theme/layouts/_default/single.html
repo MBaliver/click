@@ -56,11 +56,16 @@
 
       <!-- Additional content -->
       <div class="row justify-content-center pb-5">
-        <div class="col-12">
+        <div class="col-12 text-center">
           {{ with .Params.logo }}
             <div class="text-center">
-              <img src="{{ . }}" alt="Logo" class="logo-img" style="max-width: 600px; max-height: 400px;">
-              <!-- Adjust max-width and max-height values as needed -->
+              <div class="col-12 col-xl-12 d-flex flex-column justify-content-center">
+                <div class="d-flex justify-content-center"> <!-- Added a new div with justify-content-center -->
+                  {{ with resources.Get . }}
+                    <img class="img-fluid" src="{{ .Permalink }}" alt="{{ .Title }}">
+                  {{ end }}
+                </div>
+              </div>              
             </div>
           {{ end }}
           {{ with .Title }}
@@ -78,7 +83,7 @@
             {{ partial "gallery.html" . }}
           </div>
         </div>
-      </div>
+      </div>      
       <div class="row justify-content-center">
         <div class="col-12 d-flex justify-content-center">
           <div class="card bg-blue-16 border-0 border-radius-34 p-4">
