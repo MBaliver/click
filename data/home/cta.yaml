@@ -3,7 +3,7 @@ id: "cta"
 
 content:
   title: "Quer ajudar?"
-  image: "img/services-web-development.png"
+  image: "/img/services-web-development.png"
   button:
     label: "Conheça as ONGs e saiba como"
     url: "#ongs"
