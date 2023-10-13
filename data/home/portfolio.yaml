@@ -2,7 +2,7 @@ enabled: true
 id: "portfolio"
 
 content:
-  - image: "images/portfolio-ecommerce.png"
+  - image: "/images/portfolio-ecommerce.png"
     pretitle: "Conheça os"
     title: "Serviços Oferecidos"
     text: "As ONGs parceiras proporcionam uma gama de serviços essenciais e inspiradores, incluindo **música** e **orações** para criar um ambiente de paz e reflexão. Além disso, promovem **workshops** e **aulas diversas** para aprimorar habilidades e conhecimentos.<br><br>

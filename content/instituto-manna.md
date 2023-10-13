@@ -1,6 +1,6 @@
 ---
 title: "Instituto Manna"
-logo: "/img/logo-manna.png"
+logo: "/images/logo-manna.png"
 description: "Impactando e transformando vidas através do amor que salva e resgata!"
 date: "2019-02-28"
 images:
