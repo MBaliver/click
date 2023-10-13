@@ -1,6 +1,6 @@
-baseURL: "https://www.example.com/"
+baseURL: "https://click-forcasdobem.netlify.app/"
 theme: "up-business-theme"
-languageCode: "en-us"
+languageCode: "pt-br"
 
 title: "Click - Forças do Bem"
 
